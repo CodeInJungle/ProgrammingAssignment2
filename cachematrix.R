@@ -1,5 +1,6 @@
 ## makeCacheMatrix function act as a matrix cache. It takes a matrix as argument 
-## and returns a list of functions to set,get matrix and its inverse
+## and returns a list of functions to set,get matrix and its 
+# inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 	m <- NULL
